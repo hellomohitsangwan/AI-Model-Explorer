@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37b08e23.chunk.css",
+    "main.js": "/static/js/main.defb9de1.chunk.js",
+    "main.js.map": "/static/js/main.defb9de1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6adcdd8c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6adcdd8c.js.map",
+    "static/js/2.5ffe4a2c.chunk.js": "/static/js/2.5ffe4a2c.chunk.js",
+    "static/js/2.5ffe4a2c.chunk.js.map": "/static/js/2.5ffe4a2c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.37b08e23.chunk.css.map": "/static/css/main.37b08e23.chunk.css.map",
+    "static/js/2.5ffe4a2c.chunk.js.LICENSE.txt": "/static/js/2.5ffe4a2c.chunk.js.LICENSE.txt",
+    "static/media/00.3bc2f281.png": "/static/media/00.3bc2f281.png",
+    "static/media/1.68fa6fa3.png": "/static/media/1.68fa6fa3.png",
+    "static/media/2.7a7a9053.png": "/static/media/2.7a7a9053.png",
+    "static/media/4.e09572ea.png": "/static/media/4.e09572ea.png",
+    "static/media/5.ae87b708.png": "/static/media/5.ae87b708.png",
+    "static/media/avator.ce7afc68.svg": "/static/media/avator.ce7afc68.svg",
+    "static/media/avatorDown.abf3bc29.svg": "/static/media/avatorDown.abf3bc29.svg",
+    "static/media/cart.6a8dfc09.svg": "/static/media/cart.6a8dfc09.svg",
+    "static/media/cartBackground.8c0c6759.svg": "/static/media/cartBackground.8c0c6759.svg",
+    "static/media/dashArrow.8352d062.svg": "/static/media/dashArrow.8352d062.svg",
+    "static/media/dashboardBackground.badd8d75.svg": "/static/media/dashboardBackground.badd8d75.svg",
+    "static/media/downArrow.d8ec79e6.svg": "/static/media/downArrow.d8ec79e6.svg",
+    "static/media/dropdown.c123787f.svg": "/static/media/dropdown.c123787f.svg",
+    "static/media/front2.06de6ff0.png": "/static/media/front2.06de6ff0.png",
+    "static/media/logo1.873321e0.svg": "/static/media/logo1.873321e0.svg",
+    "static/media/plant.98f2c04d.gif": "/static/media/plant.98f2c04d.gif",
+    "static/media/recomHero.db459f87.svg": "/static/media/recomHero.db459f87.svg",
+    "static/media/windMillFinal.d0116a54.png": "/static/media/windMillFinal.d0116a54.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6adcdd8c.js",
+    "static/js/2.5ffe4a2c.chunk.js",
+    "static/css/main.37b08e23.chunk.css",
+    "static/js/main.defb9de1.chunk.js"
+  ]
+}
